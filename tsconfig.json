@@ -1,0 +1,8 @@
+{
+    "references": [
+        { "path" : "project-a" },
+        { "path" : "project-b" },
+        { "path" : "project-c" }
+    ],
+    "files" : []
+}
